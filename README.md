@@ -1,4 +1,4 @@
-# Storext
+# Storext (modded for Rails 7.0.6)
 
 [![Build Status](https://travis-ci.org/G5/storext.svg?branch=master)](https://travis-ci.org/G5/storext)
 
