@@ -1,4 +1,4 @@
-# Storext (modded for Rails 7.0.6)
+# Storext (modded for Rails 8.0.9)
 
 [![Build Status](https://travis-ci.org/G5/storext.svg?branch=master)](https://travis-ci.org/G5/storext)
 
@@ -11,7 +11,7 @@ Currently this gem uses [virtus](https://github.com/solnic/virtus) so you can pa
 
 ## Dependencies
 
-  * Rails 4.x, 5.x, 6.x, 7.x
+  * Rails 4.x, 5.x, 6.x, 7.x, 8.x (experimental)
   * Virtus
 
 ## Installation
